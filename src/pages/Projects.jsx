@@ -32,7 +32,7 @@ const Projects = () => {
               isBlog={false}
               title="Personal Portfolio Website"
               description="A personal portfolio is a curated collection of our best work, accomplishments, and experiences that showcases our skills, and creativity.It is made fully on React JS."
-              demoLink="https://port-folio-koushik.onrender.com/"
+              demoLink="https://port-folio-koushik.vercel.app/"
               ghLink='https://github.com/Nandikoushik/portfolio'
             />
           </Col>
