@@ -20,9 +20,9 @@ const Projects = () => {
             <ProjectCard
               imgPath={myn}
               isBlog={false}
-              title="MYN-CART"
+              title="Take A Service"
               description="This is a Service Based Online Platform manage by ourself After Succesfully Registration . The whole Project is developed on M-E-R-N technology................"
-              demoLink="https://myn-ushb.onrender.com/"
+              demoLink="https://take-a-service.onrender.com/"
               ghLink='https://github.com/Nandikoushik/mernstack'
             />
           </Col>
